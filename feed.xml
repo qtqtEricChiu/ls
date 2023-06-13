@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>LightSnacks!</title>
+        <link>https://lightsnacks.netlify.app/</link>
+        <description>“满怀美梦的少年是现实主义者”</description>
+        <lastBuildDate>Tue, 13 Jun 2023 11:42:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>LightSnacks!</title>
+            <url>https://lspgal.net/2023/01/12/a2a18a0637ef5.png</url>
+            <link>https://lightsnacks.netlify.app/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © qtqt_Eric_Chiu</copyright>
+        <atom:link href="https://lightsnacks.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白井ムク | 其实是继妹。~总觉得刚来的继弟很黏我~ 02]]></title>
+            <link>https://lightsnacks.netlify.app/posts/akira.2</link>
+            <guid>https://lightsnacks.netlify.app/posts/akira.2</guid>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>其实是继妹。~总觉得刚来的继弟很黏我~ 02</h2>
+<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b0">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b0</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (qtqt_Eric_Chiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[悠木りん | 星美君的包装 vol.1 ~阴角也能变得可爱吗~]]></title>
+            <link>https://lightsnacks.netlify.app/posts/shiya.1</link>
+            <guid>https://lightsnacks.netlify.app/posts/shiya.1</guid>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>星美君的包装 vol.1 ~阴角也能变得可爱吗~</h2>
+<h5>星美くんのプロデュースvol.１　陰キャでも可愛くなれますか？</h5>
+<p>![](<a href="https://metac.nxtv.jp/img/b">https://metac.nxtv.jp/img/b</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (qtqt_Eric_Chiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[白井ムク | 其实是继妹。~总觉得刚来的继弟很黏我~ 01]]></title>
+            <link>https://lightsnacks.netlify.app/posts/akira.1</link>
+            <guid>https://lightsnacks.netlify.app/posts/akira.1</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>其实是继妹。~总觉得刚来的继弟很黏我~ 01</h2>
+<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (qtqt_Eric_Chiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[恵比須清司 | 左右两边都是妹妹，哥哥想选的是谁？ 01]]></title>
+            <link>https://lightsnacks.netlify.app/posts/imoto.1</link>
+            <guid>https://lightsnacks.netlify.app/posts/imoto.1</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>![](<a href="https://www.ching-win.com.tw/upload_files/fonlego-rwd/website/%E5%B7%A6%E5%8F%B3%E5%85%A9%E9%82">https://www.ching-win.com.tw/upload_files/fonlego-rwd/website/左右兩��</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (qtqt_Eric_Chiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[恵比須清司 | 左右两边都是妹妹，哥哥想选的是谁？ 02]]></title>
+            <link>https://lightsnacks.netlify.app/posts/imoto.2</link>
+            <guid>https://lightsnacks.netlify.app/posts/imoto.2</guid>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>左右两边都是妹妹，哥哥想选的是谁？02</h2>
+<p>![](<a href="https://cdn-ching-win.fonlego.com//upload_files/fonlego-rwd/prodpic/D_4">https://cdn-ching-win.fonlego.com//upload_files/fonlego-rwd/prodpic/D_4</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (qtqt_Eric_Chiu)</author>
+        </item>
+    </channel>
+</rss>
