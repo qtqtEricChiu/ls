@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lightsnacks.netlify.app/</id>
     <title>LightSnacks!</title>
-    <updated>2023-06-13T11:42:43.990Z</updated>
+    <updated>2023-06-20T01:32:03.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>qtqt_Eric_Chiu</name>
@@ -16,12 +16,25 @@
     <icon>https://lightsnacks.netlify.app/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2023 © qtqt_Eric_Chiu</rights>
     <entry>
+        <title type="html"><![CDATA[橘公司 | 国王的求婚 短篇合集]]></title>
+        <id>https://lightsnacks.netlify.app/posts/saika.shorts</id>
+        <link href="https://lightsnacks.netlify.app/posts/saika.shorts"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>![](<a href="https://ghproxy.com/https://raw.githubusercontent.com/qtqtEricChiu/LightSnacks/master/pages/sou">https://ghproxy.com/https://raw.githubusercontent.com/qtqtEricChiu/LightSnacks/master/pages/sou</a></p>
+]]></content>
+        <author>
+            <name>qtqt_Eric_Chiu</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-06-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[白井ムク | 其实是继妹。~总觉得刚来的继弟很黏我~ 02]]></title>
         <id>https://lightsnacks.netlify.app/posts/akira.2</id>
         <link href="https://lightsnacks.netlify.app/posts/akira.2"/>
         <updated>2023-05-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>其实是继妹。~总觉得刚来的继弟很黏我~ 02</h2>
-<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b0">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b0</a></p>
+        <content type="html"><![CDATA[<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b049980-bf26-43db-bed9-ec1264b">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/02_8b049980-bf26-43db-bed9-ec1264b</a></p>
 ]]></content>
         <author>
             <name>qtqt_Eric_Chiu</name>
@@ -35,9 +48,8 @@
         <id>https://lightsnacks.netlify.app/posts/shiya.1</id>
         <link href="https://lightsnacks.netlify.app/posts/shiya.1"/>
         <updated>2022-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>星美君的包装 vol.1 ~阴角也能变得可爱吗~</h2>
-<h5>星美くんのプロデュースvol.１　陰キャでも可愛くなれますか？</h5>
-<p>![](<a href="https://metac.nxtv.jp/img/b">https://metac.nxtv.jp/img/b</a></p>
+        <content type="html"><![CDATA[<h5>星美くんのプロデュースvol.１　陰キャでも可愛くなれますか？</h5>
+<p>![](<a href="https://metac.nxtv.jp/img/bookimg/pubridge/00012/649/BT0">https://metac.nxtv.jp/img/bookimg/pubridge/00012/649/BT0</a></p>
 ]]></content>
         <author>
             <name>qtqt_Eric_Chiu</name>
@@ -51,8 +63,7 @@
         <id>https://lightsnacks.netlify.app/posts/akira.1</id>
         <link href="https://lightsnacks.netlify.app/posts/akira.1"/>
         <updated>2022-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>其实是继妹。~总觉得刚来的继弟很黏我~ 01</h2>
-<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28</a></p>
+        <content type="html"><![CDATA[<p>![](<a href="https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28a1a2e-b57b-4d0a-bba2-77d035d">https://cdn.shopifycdn.net/s/files/1/0613/7030/2681/products/01_b28a1a2e-b57b-4d0a-bba2-77d035d</a></p>
 ]]></content>
         <author>
             <name>qtqt_Eric_Chiu</name>
@@ -80,8 +91,8 @@
         <id>https://lightsnacks.netlify.app/posts/imoto.2</id>
         <link href="https://lightsnacks.netlify.app/posts/imoto.2"/>
         <updated>2023-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2>左右两边都是妹妹，哥哥想选的是谁？02</h2>
-<p>![](<a href="https://cdn-ching-win.fonlego.com//upload_files/fonlego-rwd/prodpic/D_4">https://cdn-ching-win.fonlego.com//upload_files/fonlego-rwd/prodpic/D_4</a></p>
+        <content type="html"><![CDATA[<p><img src="https://cdn-ching-win.fonlego.com//upload_files/fonlego-rwd/prodpic/D_40126202.jpg" alt=""></p>
+<p>「「怎么会发生这种命</p>
 ]]></content>
         <author>
             <name>qtqt_Eric_Chiu</name>
